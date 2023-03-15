@@ -3,6 +3,11 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bandsfdp"]
+	path = bandsfdp
+	url = https://github.com/uni-arya/bandsfdp
+	shallow = true
+	registered = true
 [submodule "stepdownfdp"]
 	path = stepdownfdp
 	url = https://github.com/uni-arya/stepdownfdp

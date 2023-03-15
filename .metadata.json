@@ -1,5 +1,9 @@
 [
   {
+    "package": "bandsfdp",
+    "oncran": true
+  },
+  {
     "package": "stepdownfdp",
     "oncran": true
   }
